@@ -7,6 +7,5 @@ public class Run {
 
         MyFrame frame = new MyFrame();
         frame.setVisible(true);
-
     }
 }
