@@ -1,5 +1,10 @@
-1,Mobile,3200,1
-1,Cover,20,2
-1,Headphone,130,1
-2,Laptop,4000,1
-2,Mouse,35,1
+1,Mobile,3200.0,1,0.0
+1,Cover,20.0,2,0.0
+1,Headphone,130.0,1,0.0
+2,Laptop,4000.0,1,0.0
+2,Speakers,300.0,1,0.0
+2,Mic,300.0,1,0.0
+2,Mouse,300.0,1,0.0
+3,Laptop,35000.0,1,0.0
+3,Mouse,250.0,2,0.0
+3,HeadPhone,300.0,1,0.0
